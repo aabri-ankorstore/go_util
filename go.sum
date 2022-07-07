@@ -1,3 +1,5 @@
+github.com/aabri-ankorstore/go_errorhandling v0.0.0-20220707112738-ec61e7bfda30 h1:tem2Q4u193trRuTT64N1V4ATK740bC03Z4hQQ+fJQJM=
+github.com/aabri-ankorstore/go_errorhandling v0.0.0-20220707112738-ec61e7bfda30/go.mod h1:30GAs7thzYkwQ9WcWObXuaHPUOqOFO4/yekG4AAqOMk=
 github.com/chzyer/logex v1.1.10 h1:Swpa1K6QvQznwJRcfTfQJmTE72DqScAa40E+fbHEXEE=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e h1:fY5BOSpyZCqRo5OhCuC+XN+r/bBCmeuuJtjz+bCNIf8=
